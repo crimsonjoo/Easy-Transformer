@@ -9,14 +9,6 @@
 
 Transformers are a class of models that revolutionized the field of natural language processing (NLP). Introduced in the paper "Attention Is All You Need" by Vaswani et al., Transformers have set new benchmarks in a variety of tasks, including but not limited to translation, text generation, and sentiment analysis. Their unique architecture allows for parallel processing of sequences, making them significantly faster and more efficient than their predecessors.
 
-## 구조 및 파일 설명
-
-- `Encoder.py`: 트랜스포머 모델의 인코더 구성을 담당하는 파일입니다.
-- `Decoder.py`: 트랜스포머 모델의 디코더 구성을 담당하는 파일입니다.
-- `Transformer_Model.py`: 전체 트랜스포머 모델을 구성하는 파일입니다.
-- `Transformer_translator_enkn.py`: 인코더-디코더를 모두 사용하는 트랜스포머 모델 번역기(영어-한국어) 예제입니다.
-- `Transformer_translator_enkr.py`: 인코더-디코더를 모두 사용하는 트랜스포머 모델 번역기(영어-칸나다어) 예제입니다.
-
 ### 시작하기 전에
 
 이 프로젝트를 시작하기 전에, Python과 기본적인 머신러닝 지식이 필요합니다. 특히, PyTorch 같은 딥러닝 프레임워크에 대한 경험이 있으면 좋습니다.
@@ -27,5 +19,13 @@ Transformers are a class of models that revolutionized the field of natural lang
 git clone https://github.com/crimsonjoo/Easy-Transformer.git
 cd Easy-Transformer
 ```
+
+## 구조 및 파일 설명
+
+- `Encoder.py`: 트랜스포머 모델의 인코더 구성을 담당하는 파일입니다.
+- `Decoder.py`: 트랜스포머 모델의 디코더 구성을 담당하는 파일입니다.
+- `Transformer_Model.py`: 전체 트랜스포머 모델을 구성하는 파일입니다.
+- `Transformer_translator_enkn.py`: 인코더-디코더 트랜스포머 모델 번역기(영어-한국어) 예제입니다.
+- `Transformer_translator_enkr.py`: 인코더-디코더 트랜스포머 모델 번역기(영어-칸나다어) 예제입니다.
 
 
