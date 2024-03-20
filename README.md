@@ -1,7 +1,5 @@
 [![Transformer in Colab](https://img.shields.io/static/v1?label=Open%20in%20Colab&message=사용법&color=yellow&logo=googlecolab)](https://colab.research.google.com/drive/1OQy1F-xI53ft5yVX_qEvBEVT241R5Z3T?hl=ko#scrollTo=78fuZ01p83q5)
 
-[![Translator in Colab](https://img.shields.io/static/v1?label=Open%20in%20Colab&message=사용법&color=yellow&logo=googlecolab)](https://colab.research.google.com/drive/1YezzUsxkhmsT2r91w4AD4CLNqQxKCk_1?hl=ko#scrollTo=q_-TAD0p5D59)
-
 
 ### 트랜스포머 모델 이해하기
 
@@ -25,9 +23,8 @@ Transformers are a class of models that revolutionized the field of natural lang
 
 ### 설치 방법
 
-Clone the repository to your local machine:
-bash
-Copy code
+```
 git clone https://github.com/crimsonjoo/Easy-Transformer.git
+```
 
 
