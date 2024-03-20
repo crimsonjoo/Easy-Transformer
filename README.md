@@ -25,6 +25,7 @@ Transformers are a class of models that revolutionized the field of natural lang
 
 ```
 git clone https://github.com/crimsonjoo/Easy-Transformer.git
+cd Easy-Transformer
 ```
 
 
